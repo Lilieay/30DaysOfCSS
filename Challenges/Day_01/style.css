@@ -1,5 +1,5 @@
 body{
-  background-color: #F398BE;
+  background-color: #0d18edaa;
 }
 
 .box{
@@ -13,8 +13,8 @@ body{
 }
 
 .search{
-  color: #9E314B;
-  background-color: #F398BE;
+  color: #fef7f8;
+  background-color: #c40c0cbc;
   width: 50px;
   height: 50px;
   border-radius: 50%;
